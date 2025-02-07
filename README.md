@@ -1,4 +1,4 @@
-# shivaragula-Movie-review-application
+# Movie-review-application
 
 ## Breadcrumb Navigation
 - [Home](#home)
